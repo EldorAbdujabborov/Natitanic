@@ -1,0 +1,27 @@
+
+
+footer {
+    max-width: 1960px;
+    background-color: #414141;
+    margin: auto;
+}
+
+.matiiz {
+
+    display: flex;
+    margin: auto;
+    max-width: 900px;
+    margin-right: 200px;
+
+
+}
+
+.tc {
+    margin: 50px;
+    max-width: 260px;
+    color: #E4E4E4;
+}
+
+.ubu img {
+    float: left;
+}
